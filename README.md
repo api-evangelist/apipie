@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-APIpie is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://apipie.ai/
+APIpie offers businesses a single OpenAI‑compatible API that aggregates flagship, premium, and budget models from major AI providers. It provides model aliases, key‑level controls, redundant connections for uptime, and detailed usage and spend visibility, allowing companies to manage AI models without rewriting code.
+
+**Areas:** OpenAI-compatible API · Redundant routing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apipie.ai/)
+- [Documentation](https://apipie.ai/docs)
+- [Blog](https://apipie.ai/blog)
+- [Privacy policy](https://apipie.ai/docs/terms/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/apipie/](https://apis.io/providers/apipie/).
